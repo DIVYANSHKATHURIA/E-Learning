@@ -309,7 +309,7 @@ function Landing() {
     {/* Text Block */}
     <div className="w-full lg:w-1/2 text-center lg:text-left space-y-8">
       <p className="text-lg leading-relaxed text-gray-700">
-        At <span className="font-semibold text-gray-900">Shiksharthee</span>, we believe in the power of education to transform lives. Our platform is a gateway to knowledge, offering diverse courses and meaningful learning experiences.
+        At <span className="font-semibold text-gray-900">E-Learning</span>, we believe in the power of education to transform lives. Our platform is a gateway to knowledge, offering diverse courses and meaningful learning experiences.
       </p>
 
       <div>

@@ -4,7 +4,6 @@ import image from "../../Images/image.png";
 import Plant from "../../Images/Plant.svg";
 import Plant2 from "../../Images/Plant2.svg"
 import Contact from "../Contact/Contact.jsx";
-import Footer from "../../Footer/Footer.jsx";
 import Header from "../Header/Header.jsx";
 import { CgProfile } from "react-icons/cg";
 import { IoSchoolSharp } from "react-icons/io5";
@@ -344,8 +343,6 @@ function Landing() {
         <Contact/>
       </div>
 
-      {/* Footer */}
-      <Footer/>
     </>
   );
 }

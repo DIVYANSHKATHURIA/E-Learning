@@ -1,12 +1,10 @@
 import React from 'react'
-import {Outlet} from 'react-router-dom'
-import TeacherDashboard from './TeacherDashboard'
+import DashboardTeacher from './DashboardTeacher'
 
 function TeacherLayout() {
   return (
     <>
-    <TeacherDashboard/>
-    <Outlet/>
+    <DashboardTeacher/>
     </>
   )
 }

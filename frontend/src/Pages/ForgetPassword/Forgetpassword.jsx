@@ -64,7 +64,7 @@ const Forgetpassword = () => {
         </div>
         <div className='flex flex-row items-center justify-between mt-4'>
           <button type="submit" className='bg-yellow-500 text-cyan-900 py-2 px-4 font-bold hover:bg-yellow-800'>Send</button>
-          <p className='text-xl text-yellow-500 flex items-center' onClick={() => navigate(-1)}>
+          <p className='text-xl text-yellow-500 flex items-center cursor-pointer' onClick={() => navigate(-1)}>
             <IoArrowBack className='text-xl text-semibold' /> Go back
           </p>
         </div>
